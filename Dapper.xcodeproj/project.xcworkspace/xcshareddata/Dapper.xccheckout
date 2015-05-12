@@ -12,22 +12,34 @@
 	<dict>
 		<key>CDD3B56182861EF2C9CCCC49A4E4164495B21213</key>
 		<string>https://github.com/gargium/Dapper-LA-Hacks.git</string>
+		<key>F58E8DE705E329D269AD624A43A02C3C2404B82D</key>
+		<string>https://github.com/gargium/Dapper-Final-LAHacks-15.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Dapper.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>CDD3B56182861EF2C9CCCC49A4E4164495B21213</key>
+		<string>../../../Dapper-LA-Hacks</string>
+		<key>F58E8DE705E329D269AD624A43A02C3C2404B82D</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/gargium/Dapper-LA-Hacks.git</string>
+	<string>https://github.com/gargium/Dapper-Final-LAHacks-15.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>CDD3B56182861EF2C9CCCC49A4E4164495B21213</string>
+	<string>F58E8DE705E329D269AD624A43A02C3C2404B82D</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F58E8DE705E329D269AD624A43A02C3C2404B82D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Dapper-Final-LAHacks-15</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
